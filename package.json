@@ -1,13 +1,13 @@
 {
   "name": "is-kotlin-keyword",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Determine whether a string is a Kotlin keyword.",
   "main": "index.js",
   "scripts": {
     "test": "istanbul cover  jasmine-node spec"
   },
   "repository": {
-    "url": "git+https://github.com/thodorisbaus/is-kotlin-keyword.git",
+    "url": "git+https://github.com/thodorisbaIs/is-kotlin-keyword.git",
     "type": "git"
   },
   "keywords": [
